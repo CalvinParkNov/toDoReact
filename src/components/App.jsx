@@ -17,6 +17,7 @@ function App() {
                 inputText
             ];
         });
+        setInputText("");
       }else {
         alert("Please input to do.");
         return false;
